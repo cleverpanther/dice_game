@@ -1,5 +1,3 @@
-# DDR-Dice
-
 ## Install Dependencies
 - Install `node` and `yarn`
 - Install `ts-node` as global command
